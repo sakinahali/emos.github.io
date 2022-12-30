@@ -25,8 +25,6 @@ This project entails data wrangling and exploratory data analysis of medical app
 ## Telling Stories with Tableau
 This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. It entails the data visualization of flight delays and cancellations using Tableau.
 
-## Visualization 1:Number of flights in each state
-![image]("Sheet 3.png")
 
 
 
@@ -38,7 +36,8 @@ This data comes from a Kaggle dataset, it tracks the on-time performance of US d
 
 
 
-# [Project 3: Bicycle-Sharing Systems Exploratory Analysis](https://github.com/sakinahali/Bikeshare-folder)
+
+# [Project 2: Bicycle-Sharing Systems Exploratory Analysis](https://github.com/sakinahali/Bikeshare-folder)
 
 ![Logo](https://media.istockphoto.com/photos/socially-responsible-mid-30s-black-woman-renting-bicycle-picture-id1289451906?b=1&k=20&m=1289451906&s=170667a&w=0&h=zuz1kiZDnCsus-2tn0-l9UFPolaLaQ_XT7h03aLsmJU=)
 [istockphoto](https://media.istockphoto.com/photos/socially-responsible-mid-30s-black-woman-renting-bicycle-picture-id1289451906?b=1&k=20&m=1289451906&s=170667a&w=0&h=zuz1kiZDnCsus-2tn0-l9UFPolaLaQ_XT7h03aLsmJU=)
