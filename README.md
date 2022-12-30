@@ -1,6 +1,34 @@
 ## Sakinah's Portfolio
 
-# [Project 1: Bicycle-Sharing Systems Exploratory Analysis](https://github.com/sakinahali/Bikeshare-folder)
+
+# [Project 1: Medical Appointment Exploratory Analysis](https://github.com/sakinahali/Medical_appointment_Dataset)
+
+![medical picture](https://media.istockphoto.com/photos/doctor-or-physician-writing-diagnosis-and-giving-a-medical-to-male-picture-id1190794708?k=20&m=1190794708&s=612x612&w=0&h=5LPA6yeThxkKO_05LqYfAK-8HA8rG8gDrrjOzRW3Mhw=)
+[Istockphoto](https://media.istockphoto.com/photos/doctor-or-physician-writing-diagnosis-and-giving-a-medical-to-male-picture-id1190794708?k=20&m=1190794708&s=612x612&w=0&h=5LPA6yeThxkKO_05LqYfAK-8HA8rG8gDrrjOzRW3Mhw=)
+ 
+
+## Project Description
+A lot of technological improvement has occurred in the medical field,  for instance the ease to book an appointment online without the stress of showing up on days unattended to. The medical appointment gives a flexibility and better Doctor-Patient relationship on days to call in sick. 
+
+This project entails data wrangling and exploratory data analysis of medical appointments in Brazil detecting if patients showed up or not. Over 100k medical appointments were used in the data analysis of this project.
+
+## Project Overview
+* Cleaned and wrangled over 110527 rows and 14 columns using Python.
+* Detected ratio of gender distribution who are likely to show up on appointments.
+* Explored the use of data to compare high-risk diseases and the most demanding number of appointments.
+* Plotted a well-detailed visualization showing what factors affects the showing up to medical appointments by patients.
+
+
+
+
+
+
+
+
+
+
+
+# [Project 3: Bicycle-Sharing Systems Exploratory Analysis](https://github.com/sakinahali/Bikeshare-folder)
 
 ![Logo](https://media.istockphoto.com/photos/socially-responsible-mid-30s-black-woman-renting-bicycle-picture-id1289451906?b=1&k=20&m=1289451906&s=170667a&w=0&h=zuz1kiZDnCsus-2tn0-l9UFPolaLaQ_XT7h03aLsmJU=)
 [istockphoto](https://media.istockphoto.com/photos/socially-responsible-mid-30s-black-woman-renting-bicycle-picture-id1289451906?b=1&k=20&m=1289451906&s=170667a&w=0&h=zuz1kiZDnCsus-2tn0-l9UFPolaLaQ_XT7h03aLsmJU=)
@@ -21,25 +49,6 @@ This project gives a detailed explanation of how bike users interact with the te
 
 
 
-
-
-
-# [Project 2: Medical Appointment Exploratory Analysis](https://github.com/sakinahali/Medical_appointment_Dataset)
-
-![medical picture](https://media.istockphoto.com/photos/doctor-or-physician-writing-diagnosis-and-giving-a-medical-to-male-picture-id1190794708?k=20&m=1190794708&s=612x612&w=0&h=5LPA6yeThxkKO_05LqYfAK-8HA8rG8gDrrjOzRW3Mhw=)
-[Istockphoto](https://media.istockphoto.com/photos/doctor-or-physician-writing-diagnosis-and-giving-a-medical-to-male-picture-id1190794708?k=20&m=1190794708&s=612x612&w=0&h=5LPA6yeThxkKO_05LqYfAK-8HA8rG8gDrrjOzRW3Mhw=)
- 
-
-## Project Description
-A lot of technological improvement has occurred in the medical field,  for instance the ease to book an appointment online without the stress of showing up on days unattended to. The medical appointment gives a flexibility and better Doctor-Patient relationship on days to call in sick. 
-
-This project entails data wrangling and exploratory data analysis of medical appointments in Brazil detecting if patients showed up or not. Over 100k medical appointments were used in the data analysis of this project.
-
-## Project Overview
-* Cleaned and wrangled over 110527 rows and 14 columns using Python.
-* Detected ratio of gender distribution who are likely to show up on appointments.
-* Explored the use of data to compare high-risk diseases and the most demanding number of appointments.
-* Plotted a well-detailed visualization showing what factors affects the showing up to medical appointments by patients.
 
 
 
