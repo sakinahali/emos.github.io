@@ -20,6 +20,16 @@ This project entails data wrangling and exploratory data analysis of medical app
 
 
 
+# [Project 2: Flight-Delay-Tableau-Project](https://github.com/sakinahali/Flight-Delay-Tableau-Project)
+
+## Telling Stories with Tableau
+This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015. It entails the data visualization of flight delays and cancellations using Tableau.
+
+## Visualization 1:Number of flights in each state
+![image]("Sheet 3.png")
+
+
+
 
 
 
