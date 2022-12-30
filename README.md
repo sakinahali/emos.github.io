@@ -21,9 +21,13 @@ This project gives a detailed explanation of how bike users interact with the te
 ## Details of the code can be found here: [github](https://github.com/sakinahali/Bikeshare-folder)
 
 
-Project 2: Medical Appointment
+
+
+Project 2: Medical Appointment Exploratory Analysis
 
 ![medical picture](https://media.istockphoto.com/photos/doctor-or-physician-writing-diagnosis-and-giving-a-medical-to-male-picture-id1190794708?k=20&m=1190794708&s=612x612&w=0&h=5LPA6yeThxkKO_05LqYfAK-8HA8rG8gDrrjOzRW3Mhw=)
+[Istockphoto](https://media.istockphoto.com/photos/doctor-or-physician-writing-diagnosis-and-giving-a-medical-to-male-picture-id1190794708?k=20&m=1190794708&s=612x612&w=0&h=5LPA6yeThxkKO_05LqYfAK-8HA8rG8gDrrjOzRW3Mhw=)
+ 
 
 ## Project Description
 A lot of technological improvement has occurred in the medical field,  for instance the ease to book an appointment online without the stress of showing up on days unattended to. The medical appointment gives a flexibility and better Doctor-Patient relationship on days to call in sick. 
