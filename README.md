@@ -1,6 +1,6 @@
 ## Sakinah's Portfolio
 
-# Project 1: Bike Share Systems Exploration
+# Project 1: Bicycle-Sharing Systems Exploration
 ![Logo](https://media.istockphoto.com/photos/socially-responsible-mid-30s-black-woman-renting-bicycle-picture-id1289451906?b=1&k=20&m=1289451906&s=170667a&w=0&h=zuz1kiZDnCsus-2tn0-l9UFPolaLaQ_XT7h03aLsmJU=)
 [istockphoto](https://media.istockphoto.com/photos/socially-responsible-mid-30s-black-woman-renting-bicycle-picture-id1289451906?b=1&k=20&m=1289451906&s=170667a&w=0&h=zuz1kiZDnCsus-2tn0-l9UFPolaLaQ_XT7h03aLsmJU=)
 
@@ -18,4 +18,4 @@ This project gives a detailed explanation of how bike users interact with the te
 * Explored the use of Python to compare bike share systems in three major cities in the United states-Chicago, New York City, and Washington.
 * Wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-## Details of the code can be found here: https://github.com/sakinahali/Bikeshare-folder
+## Details of the code can be found here: [github](https://github.com/sakinahali/Bikeshare-folder)
